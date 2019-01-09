@@ -25,7 +25,7 @@ SECRET_KEY = 'z-2ax@!&q#t@@o8)+6^u-x%0slz9*e(wbd2ytp1dg1opkx@((7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mdarke.pythonanywhere.com']
 
 
 # Application definition
